@@ -7,7 +7,7 @@ FlappyChain is an on-chain version of the classic Flappy Bird game, built entire
 - Simple mechanics: jump by submitting transactions.
 - Smart contract records scores and maintains a leaderboard.
 - Gas-optimized to reduce transaction costs.
-
+ 
 ## 📜 How It Works
 1. **Start a Game:** Call `startGame()` to begin.
 2. **Jump:** Call `jump()` to increase your score (must wait for the next block to jump again).
